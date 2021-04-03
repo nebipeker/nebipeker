@@ -3,7 +3,7 @@
 <h2>I am Peker from Istanbul</h2><br>
 
 
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
 
 <h3> 👨🏻•💻 About Me </h3>
 
@@ -30,10 +30,10 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pekercelik&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebipeker&layout=compact)]
 
 <h3> 🤝🏻 I am open for cooperation! Connect with Me </h3>
 <a href="https://www.linkedin.com/in/pekercelik/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Shivam%20Malpani-blue?style=flat-square&logo=linkedin"></a>
 
-<hr>
+
 
