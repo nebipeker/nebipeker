@@ -30,7 +30,7 @@
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebipeker&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebipeker&layout=compact)
 
 <h3> 🤝🏻 I am open for cooperation! Connect with Me </h3>
 <a href="https://www.linkedin.com/in/pekercelik/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Peker%20Celik-blue?style=flat-square&logo=linkedin"></a>
