@@ -8,7 +8,7 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
-- 🔭 I’m currently work as a Jr. Data Scientist
+- 🔭 I currently work as a Jr. Data Scientist
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
