@@ -8,21 +8,22 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
-- 🔭 I currently work as a Jr. Data Scientist
+- 🔭 I am currently tring to graduate
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 
-- 🎓 &nbsp; Junior Undergraduate Computer Science student.
+- 🎓 &nbsp; Senior Undergraduate Computer Science student.
 
-- 🌱 &nbsp; Learning about Web and Cloud development.
+- 🌱 &nbsp; Learning about Mobile development.
 
-- ✍️ &nbsp; Pursuing Web Development as hobbies/side hustles.
+- ✍️ &nbsp; Pursuing Flutter, Data Science (ex junior) as hobbies/side hustles.
 
 
 
 <h3>🛠 Tech Stack</h3>
 
 
+- 📱  Flutter
 
 - 💻 &nbsp; Python | Java | C++ | C 
  
