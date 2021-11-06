@@ -14,16 +14,14 @@
 
 - 🎓 &nbsp; Senior Undergraduate Computer Science student.
 
-- 🌱 &nbsp; Learning about Mobile development.
+- 🌱 &nbsp; Learning about Data Science and machine learning in finance applications etc.
 
-- ✍️ &nbsp; Pursuing Flutter, Data Science (ex junior) as hobbies/side hustles.
+- ✍️ &nbsp; Graph Neural Networks, as hobbies/side hustles.
 
 
 
 <h3>🛠 Tech Stack</h3>
 
-
-- 📱  Flutter
 
 - 💻 &nbsp; Python | Java | C++ | C 
  
