@@ -8,11 +8,7 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
-- 🔭 I am currently tring to graduate
-
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-
-- 🎓 &nbsp; Senior Undergraduate Computer Science student.
 
 - 🌱 &nbsp; Learning about Data Science and machine learning in finance applications etc.
 
@@ -27,7 +23,7 @@
  
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
 
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | ReactJS
+- 🌐 &nbsp; ReactJS | Nodejs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebipeker&layout=compact)
 
