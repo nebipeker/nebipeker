@@ -1,6 +1,5 @@
 ### Hi there 👋
-![Visitor Count](https://profile-counter.glitch.me/pekercelik/count.svg)
-<h2>I am Peker from Istanbul</h2><br>
+<h2>I am Peker. I currently work at IBM</h2><br>
 
 
 
@@ -8,22 +7,19 @@
 <h3> 👨🏻•💻 About Me </h3>
 
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring modern architectures.
 
-- 🌱 &nbsp; Learning about Data Science and machine learning in finance applications etc.
-
-- ✍️ &nbsp; Graph Neural Networks, as hobbies/side hustles.
-
+- 🌱 &nbsp; Learning about Cloud & DevOps and microservices.
 
 
 <h3>🛠 Tech Stack</h3>
 
 
-- 💻 &nbsp; Python | Java | C++ | C 
+- 💻 &nbsp; Python | Go | Java | Nodejs
  
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
 
-- 🌐 &nbsp; ReactJS | Nodejs
+- 🌐 &nbsp; Kubernetes | Docker | Vagrant
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebipeker&layout=compact)
 
