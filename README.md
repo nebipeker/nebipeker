@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h2>I am Peker. I currently work at [IBM](https://www.ibm.com/us-en/)</h2><br>
+## I am Peker. I currently work at [IBM](https://www.ibm.com/us-en/)<br>
 
 
 
