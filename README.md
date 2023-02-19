@@ -19,7 +19,7 @@
  
 - 🛢 &nbsp; MySQL | MongoDB | PostgreSQL
 
-- 🌐 &nbsp; Kubernetes | Docker | Vagrant
+- 🌐 &nbsp; Kubernetes | Docker | Vagrant | gRPC
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebipeker&layout=compact)
 <br/>
