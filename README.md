@@ -24,6 +24,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebipeker&layout=compact)
 <br/>
 ![Peker's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebipeker&count_private=true)
+![Contribution Snake Light](https://raw.githubusercontent.com/nebipeker/nebipeker/output/github-snake-light.svg#gh-light-mode-only)
+![Contribution Snake Dark](https://raw.githubusercontent.com/nebipeker/nebipeker/output/github-snake-dark.svg#gh-dark-mode-only)
 <h3> 🤝🏻 I am open for cooperation! Connect with Me </h3>
 <a href="https://www.linkedin.com/in/pekercelik/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Peker%20Celik-blue?style=flat-square&logo=linkedin"></a>
 
