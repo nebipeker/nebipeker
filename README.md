@@ -56,8 +56,6 @@ I build **multi-agent LLM systems** and **AI-powered B2B products**. Published r
 
 <h3>📊 GitHub Stats</h3>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nebipeker&layout=compact)
-![Peker's GitHub stats](https://github-readme-stats.vercel.app/api?username=nebipeker&count_private=true&show_icons=true)
 
 ![Contribution Snake Light](https://raw.githubusercontent.com/nebipeker/nebipeker/output/github-snake-light.svg#gh-light-mode-only)
 ![Contribution Snake Dark](https://raw.githubusercontent.com/nebipeker/nebipeker/output/github-snake-dark.svg#gh-dark-mode-only)
