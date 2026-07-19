@@ -10,7 +10,7 @@ I build **multi-agent LLM systems** and **AI-powered B2B products**. Published r
 
 <h3>👨🏻‍💻 About Me</h3>
 
-- 📄 &nbsp;**Published**: [Analyzing Transaction Graphs via Motif-Based Graph Representation Learning for Cryptocurrency Price Prediction](https://doi.org/10.1007/s10614-025-10940-1) — *Computational Economics*, Springer Nature · 21 citations
+- 📄 &nbsp;**Published**: [Analyzing Transaction Graphs via Motif-Based Graph Representation Learning for Cryptocurrency Price Prediction](https://doi.org/10.1007/s10614-025-10940-1) — *Computational Economics*, Springer Nature · 25 citations and increasing
 - 🏆 &nbsp;**1st place** — IstanHack, Istanbul Blockchain Week 2024 · **1st place** — XR Hack Istanbul 2024
 - 🎓 &nbsp;BSc Computer Science, Özyeğin University · ex–OzU Rover Team (autonomous planetary rover software)
 - 🌱 &nbsp;Exploring modern architectures, Cloud & DevOps, and microservices
